@@ -1,6 +1,6 @@
 ﻿![Shopify](../images/banner.png "Shopify")
 | [Home](../index.html) | [Erste Schritte](erste_schritte.html) | [Videos](videos.html) | [Webseiten](webseiten.html) | [Händler](händler.html) | [Trends finden](trends.html)
-| - | - | - | - | - | 
+| - | - | - | - | - | - | 
 Videos
 -
 Dropshipping - Schritt für Schritt Anleitung für Anfänger!
