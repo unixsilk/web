@@ -1,7 +1,7 @@
 ﻿![Shopify](../images/banner.png "Shopify")
 | [Home](../index.html) | [Erste Schritte](erste_schritte.html) | [Videos](videos.html) | [Webseiten](webseiten.html) | [Händler](händler.html) | [Trends finden](trends.html)
 | - | - | - | - | - |  -
-Webseiten
+Händler
 -
 
 ### [Dropshipping-marktplatz](https://www.dropshipping-marktplatz.ch/)
